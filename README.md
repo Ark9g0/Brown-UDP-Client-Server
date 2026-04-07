@@ -18,3 +18,4 @@ A simple UDP client-server messaging application with a brown-themed GUI built u
 2. Start the client:
    ```bash
    python clientbrown.py
+3. Type a message in the client and click "Send". The server will show the message; type a response and click "Send Response" to reply.
