@@ -19,3 +19,10 @@ A simple UDP client-server messaging application with a brown-themed GUI built u
    ```bash
    python clientbrown.py
 3. Type a message in the client and click "Send". The server will show the message; type a response and click "Send Response" to reply.
+
+
+Notes
+Both applications must run on the same machine (or change localhost to the server's IP address).
+
+The client waits for a server response for 2 seconds; if none, it shows a timeout message.
+
