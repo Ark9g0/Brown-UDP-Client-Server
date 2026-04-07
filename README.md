@@ -15,3 +15,6 @@ A simple UDP client-server messaging application with a brown-themed GUI built u
 1. Start the server:
    ```bash
    python serverbrown.py
+2. Start the client:
+   ```bash
+   python clientbrown.py
